@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/spotify-calculator/static/js/main.a11fdc0b.js",
+    "static/js/453.a9544ddd.chunk.js": "/spotify-calculator/static/js/453.a9544ddd.chunk.js",
+    "index.html": "/spotify-calculator/index.html",
+    "main.a11fdc0b.js.map": "/spotify-calculator/static/js/main.a11fdc0b.js.map",
+    "453.a9544ddd.chunk.js.map": "/spotify-calculator/static/js/453.a9544ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a11fdc0b.js"
+  ]
+}
